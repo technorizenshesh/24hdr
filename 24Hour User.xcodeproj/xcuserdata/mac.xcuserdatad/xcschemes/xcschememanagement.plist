@@ -7,7 +7,25 @@
 		<key>24Hour User.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>13</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>042029E7227C28D3009DDF12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>042029FB227C28D4009DDF12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04202A06227C28D4009DDF12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,6 @@
+framework module Pods_24Hour_User {
+  umbrella header "Pods-24Hour User-umbrella.h"
+
+  export *
+  module * { export * }
+}

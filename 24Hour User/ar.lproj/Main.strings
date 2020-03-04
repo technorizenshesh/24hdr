@@ -1,0 +1,654 @@
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "01F-97-ujL"; */
+"01F-97-ujL.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Gyn"; ObjectID = "08t-ad-acq"; */
+"08t-ad-acq.text" = "Gyn";
+
+/* Class = "UITextField"; placeholder = "Select Secure Question"; ObjectID = "0UE-ku-Los"; */
+"0UE-ku-Los.placeholder" = "Select Secure Question";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0aL-5n-AQt"; */
+"0aL-5n-AQt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "    Add Review    "; ObjectID = "175-Za-oLF"; */
+"175-Za-oLF.normalTitle" = "    Add Review    ";
+
+/* Class = "UITextField"; placeholder = "Enter Address"; ObjectID = "1dZ-Ne-r1o"; */
+"1dZ-Ne-r1o.placeholder" = "Enter Address";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? Login here"; ObjectID = "1na-Qr-yhf"; */
+"1na-Qr-yhf.normalTitle" = "Already have an account? Login here";
+
+/* Class = "UILabel"; text = "Promotion Details"; ObjectID = "2XZ-5C-cma"; */
+"2XZ-5C-cma.text" = "Promotion Details";
+
+/* Class = "UILabel"; text = "Isaac French"; ObjectID = "2Zb-uS-ZgC"; */
+"2Zb-uS-ZgC.text" = "Isaac French";
+
+/* Class = "UILabel"; text = "NO REVIEWS YET"; ObjectID = "35S-Co-BxA"; */
+"35S-Co-BxA.text" = "NO REVIEWS YET";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3fZ-YO-Mnf"; */
+"3fZ-YO-Mnf.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "    Emergency Appointment    "; ObjectID = "3h3-Qu-OSa"; */
+"3h3-Qu-OSa.normalTitle" = "    Emergency Appointment    ";
+
+/* Class = "UITabBarItem"; title = "My Booking"; ObjectID = "3wZ-Ei-fnU"; */
+"3wZ-Ei-fnU.title" = "My Booking";
+
+/* Class = "UILabel"; text = "PATIENT COMMENTS"; ObjectID = "4k4-mD-EMp"; */
+"4k4-mD-EMp.text" = "PATIENT COMMENTS";
+
+/* Class = "UIButton"; normalTitle = "Book Appointment"; ObjectID = "4yN-F7-YgC"; */
+"4yN-F7-YgC.normalTitle" = "Book Appointment";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "5Se-CK-Rws"; */
+"5Se-CK-Rws.text" = "Sergery";
+
+/* Class = "UIButton"; normalTitle = "Book Appointment"; ObjectID = "5pg-wJ-Gfs"; */
+"5pg-wJ-Gfs.normalTitle" = "Book Appointment";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5yu-nt-5vc"; */
+"5yu-nt-5vc.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Clikc add comments to write now"; ObjectID = "6JT-lu-TvV"; */
+"6JT-lu-TvV.text" = "Clikc add comments to write now";
+
+/* Class = "UILabel"; text = "08:08 PM"; ObjectID = "6NJ-6z-3wz"; */
+"6NJ-6z-3wz.text" = "08:08 PM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6bU-af-1A6"; */
+"6bU-af-1A6.text" = "Label";
+
+/* Class = "UILabel"; text = "Lorence Bhaskar"; ObjectID = "6jl-1Y-7gT"; */
+"6jl-1Y-7gT.text" = "Lorence Bhaskar";
+
+/* Class = "UIButton"; normalTitle = "    Appointment    "; ObjectID = "7gj-ny-ufI"; */
+"7gj-ny-ufI.normalTitle" = "    Appointment    ";
+
+/* Class = "UILabel"; text = "Re schedule Appointment"; ObjectID = "8AI-aO-P5Q"; */
+"8AI-aO-P5Q.text" = "Re schedule Appointment";
+
+/* Class = "UILabel"; text = "Dr Smith Johns is a physician and scientist with interest in Telemedicine. He is trained in emergency medicine and general surgery. He has worked as a research scientist and published award winning peer-reviewed articles in high impact journals. Smith Johns is a physician and scientist with interest in Telemedicine."; ObjectID = "8qA-9V-Thc"; */
+"8qA-9V-Thc.text" = "Dr Smith Johns is a physician and scientist with interest in Telemedicine. He is trained in emergency medicine and general surgery. He has worked as a research scientist and published award winning peer-reviewed articles in high impact journals. Smith Johns is a physician and scientist with interest in Telemedicine.";
+
+/* Class = "UIButton"; normalTitle = "ARABIC"; ObjectID = "92B-4q-1zG"; */
+"92B-4q-1zG.normalTitle" = "ARABIC";
+
+/* Class = "UITextField"; placeholder = "Enter old password"; ObjectID = "A6C-bH-Bup"; */
+"A6C-bH-Bup.placeholder" = "Enter old password";
+
+/* Class = "UILabel"; text = "3 days ago"; ObjectID = "AHI-ao-sSi"; */
+"AHI-ao-sSi.text" = "3 days ago";
+
+/* Class = "UITextField"; placeholder = "Distance"; ObjectID = "AZ6-q2-T3O"; */
+"AZ6-q2-T3O.placeholder" = "Distance";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "Amd-kI-Ntl"; */
+"Amd-kI-Ntl.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "ENGLISH"; ObjectID = "Ame-KU-Ulz"; */
+"Ame-KU-Ulz.normalTitle" = "ENGLISH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aqb-4m-UuY"; */
+"Aqb-4m-UuY.text" = "Label";
+
+/* Class = "UILabel"; text = "24hours"; ObjectID = "Arn-Tl-Jch"; */
+"Arn-Tl-Jch.text" = "24hours";
+
+/* Class = "UISearchBar"; placeholder = "Search prmotion"; ObjectID = "BFf-1H-Dtf"; */
+"BFf-1H-Dtf.placeholder" = "Search prmotion";
+
+/* Class = "UILabel"; text = "Rate Your Appointment"; ObjectID = "BGq-mO-ORY"; */
+"BGq-mO-ORY.text" = "Rate Your Appointment";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "BlA-qW-1eY"; */
+"BlA-qW-1eY.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "Bu1-wB-MQo"; */
+"Bu1-wB-MQo.text" = "Sergery";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "C2S-5h-svp"; */
+"C2S-5h-svp.text" = "Wednesday";
+
+/* Class = "UILabel"; text = "Dr. Smit"; ObjectID = "C5X-XZ-1d5"; */
+"C5X-XZ-1d5.text" = "Dr. Smit";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "CAE-g4-aJb"; */
+"CAE-g4-aJb.text" = "Available";
+
+/* Class = "UILabel"; text = "NGN 500"; ObjectID = "CNY-5m-WvA"; */
+"CNY-5m-WvA.text" = "NGN 500";
+
+/* Class = "UILabel"; text = "Dr. Smit"; ObjectID = "CTt-4b-osb"; */
+"CTt-4b-osb.text" = "Dr. Smit";
+
+/* Class = "UIButton"; normalTitle = "   Search for Doctors"; ObjectID = "CUx-lR-7Hb"; */
+"CUx-lR-7Hb.normalTitle" = "   Search for Doctors";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "CjM-Ar-PEK"; */
+"CjM-Ar-PEK.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Appointment List"; ObjectID = "DVJ-dn-MyA"; */
+"DVJ-dn-MyA.text" = "Appointment List";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Dug-Q2-m7z"; */
+"Dug-Q2-m7z.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "E5X-u8-jUr"; */
+"E5X-u8-jUr.text" = "Sergery";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Ej1-mS-Iv6"; */
+"Ej1-mS-Iv6.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "Ekz-sY-HG4"; */
+"Ekz-sY-HG4.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F3v-Xs-6a1"; */
+"F3v-Xs-6a1.text" = "Label";
+
+/* Class = "UISearchBar"; placeholder = "Search for Doctors"; ObjectID = "FWV-K1-HAH"; */
+"FWV-K1-HAH.placeholder" = "Search for Doctors";
+
+/* Class = "UITextField"; placeholder = "Enter confirm password"; ObjectID = "Gcq-hX-0Bd"; */
+"Gcq-hX-0Bd.placeholder" = "Enter confirm password";
+
+/* Class = "UIButton"; normalTitle = "Pay 1000"; ObjectID = "HRE-c2-Fgu"; */
+"HRE-c2-Fgu.normalTitle" = "Pay 1000";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Register here"; ObjectID = "HUO-cq-YD4"; */
+"HUO-cq-YD4.normalTitle" = "Don't have an account? Register here";
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "Hxn-NH-MyL"; */
+"Hxn-NH-MyL.placeholder" = "Select Time";
+
+/* Class = "UITextField"; placeholder = "Secure Answer"; ObjectID = "IL9-za-4yW"; */
+"IL9-za-4yW.placeholder" = "Secure Answer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IzD-1J-I9w"; */
+"IzD-1J-I9w.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J6h-qr-E3K"; */
+"J6h-qr-E3K.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter Address"; ObjectID = "JDp-Xq-Zq0"; */
+"JDp-Xq-Zq0.placeholder" = "Enter Address";
+
+/* Class = "UIButton"; normalTitle = "   Facebook"; ObjectID = "JJs-aO-XVn"; */
+"JJs-aO-XVn.normalTitle" = "   Facebook";
+
+/* Class = "UILabel"; text = "10:30 - 12:23 AM"; ObjectID = "JPR-Ip-JgW"; */
+"JPR-Ip-JgW.text" = "10:30 - 12:23 AM";
+
+/* Class = "UILabel"; text = "Pleae enter your registered email address"; ObjectID = "Jc1-uV-2X7"; */
+"Jc1-uV-2X7.text" = "Pleae enter your registered email address";
+
+/* Class = "UIButton"; normalTitle = "      Add To Favorite"; ObjectID = "Jd2-a5-II0"; */
+"Jd2-a5-II0.normalTitle" = "      Add To Favorite";
+
+/* Class = "UILabel"; text = "75.00"; ObjectID = "JuX-UI-Kn0"; */
+"JuX-UI-Kn0.text" = "75.00";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "KR4-RC-Pfx"; */
+"KR4-RC-Pfx.text" = "Sergery";
+
+/* Class = "UILabel"; text = "30 Sep 2016"; ObjectID = "Kf4-Z7-VDC"; */
+"Kf4-Z7-VDC.text" = "30 Sep 2016";
+
+/* Class = "UILabel"; text = "Dr. Smit"; ObjectID = "KsX-gj-ONb"; */
+"KsX-gj-ONb.text" = "Dr. Smit";
+
+/* Class = "UILabel"; text = "NGN 500"; ObjectID = "L6m-A9-6Od"; */
+"L6m-A9-6Od.text" = "NGN 500";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "M1e-Of-YBa"; */
+"M1e-Of-YBa.text" = "Male";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M6v-7r-k3j"; */
+"M6v-7r-k3j.text" = "Label";
+
+/* Class = "UILabel"; text = "Dr. Smit"; ObjectID = "MT5-94-Vem"; */
+"MT5-94-Vem.text" = "Dr. Smit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NO8-Bw-uNy"; */
+"NO8-Bw-uNy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NSo-dv-8DG"; */
+"NSo-dv-8DG.text" = "Label";
+
+/* Class = "UILabel"; text = "Charges/Session"; ObjectID = "NbK-5o-RW0"; */
+"NbK-5o-RW0.text" = "Charges/Session";
+
+/* Class = "UILabel"; text = "Jessica Fox"; ObjectID = "NoT-5g-JRW"; */
+"NoT-5g-JRW.text" = "Jessica Fox";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "O3i-0m-pdN"; */
+"O3i-0m-pdN.text" = "Sergery";
+
+/* Class = "UILabel"; text = "About 24hdr.com"; ObjectID = "O8l-0I-BJ0"; */
+"O8l-0I-BJ0.text" = "About 24hdr.com";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OEr-In-h3a"; */
+"OEr-In-h3a.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter comment"; ObjectID = "OFz-2l-KH4"; */
+"OFz-2l-KH4.placeholder" = "Enter comment";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "ORg-6E-yEm"; */
+"ORg-6E-yEm.text" = "Profile";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "QBq-gS-lxw"; */
+"QBq-gS-lxw.text" = "Details";
+
+/* Class = "UILabel"; text = "Negeria"; ObjectID = "QTe-2N-Dnq"; */
+"QTe-2N-Dnq.text" = "Negeria";
+
+/* Class = "UILabel"; text = "3 Likes"; ObjectID = "QUw-KS-yBa"; */
+"QUw-KS-yBa.text" = "3 Likes";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "QyJ-oB-snf"; */
+"QyJ-oB-snf.normalTitle" = "REGISTER";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "R1D-0q-nOJ"; */
+"R1D-0q-nOJ.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "R6i-4v-8Jp"; */
+"R6i-4v-8Jp.placeholder" = "Location";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "RMr-mC-HHf"; */
+"RMr-mC-HHf.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Al SAFA CLINIC"; ObjectID = "Rql-By-ba7"; */
+"Rql-By-ba7.text" = "Al SAFA CLINIC";
+
+/* Class = "UILabel"; text = "Andrea"; ObjectID = "Rsa-9s-FhP"; */
+"Rsa-9s-FhP.text" = "Andrea";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "Rtc-d7-xlm"; */
+"Rtc-d7-xlm.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "SAl-ar-LfE"; */
+"SAl-ar-LfE.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "5258 Total"; ObjectID = "Scj-st-v7v"; */
+"Scj-st-v7v.text" = "5258 Total";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "SdN-qr-OO2"; */
+"SdN-qr-OO2.placeholder" = "First Name";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "SmP-FF-7cO"; */
+"SmP-FF-7cO.placeholder" = "Select Date";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "TBR-5p-G0C"; */
+"TBR-5p-G0C.text" = "Comment";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "TTo-aS-lud"; */
+"TTo-aS-lud.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Doctors"; ObjectID = "Tf7-JI-Xgh"; */
+"Tf7-JI-Xgh.text" = "Doctors";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Tfj-PA-ExJ"; */
+"Tfj-PA-ExJ.text" = "Profile";
+
+/* Class = "UILabel"; text = "Reference site about Lorem Ipsum, giving information on its origins, as well as a "; ObjectID = "UgC-NF-pWR"; */
+"UgC-NF-pWR.text" = "Reference site about Lorem Ipsum, giving information on its origins, as well as a ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "VEp-52-y3u"; */
+"VEp-52-y3u.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "FACILITIES"; ObjectID = "WEH-Vg-Axn"; */
+"WEH-Vg-Axn.text" = "FACILITIES";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "WXN-V6-V54"; */
+"WXN-V6-V54.text" = "United States";
+
+/* Class = "UILabel"; text = "10:30 - 12:23 AM"; ObjectID = "WdO-yx-18S"; */
+"WdO-yx-18S.text" = "10:30 - 12:23 AM";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "WvL-XB-cgb"; */
+"WvL-XB-cgb.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Reviews"; ObjectID = "X2r-tv-qJt"; */
+"X2r-tv-qJt.normalTitle" = "Reviews";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "X4g-EV-1xg"; */
+"X4g-EV-1xg.text" = "Total Amount";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "XFu-ol-hPI"; */
+"XFu-ol-hPI.placeholder" = "Select Date";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "XMn-V3-7DW"; */
+"XMn-V3-7DW.placeholder" = "Card Number";
+
+/* Class = "UILabel"; text = "Negeria"; ObjectID = "XNd-yi-pY4"; */
+"XNd-yi-pY4.text" = "Negeria";
+
+/* Class = "UILabel"; text = "Change Password "; ObjectID = "XT8-87-b65"; */
+"XT8-87-b65.text" = "Change Password ";
+
+/* Class = "UILabel"; text = "Log in with"; ObjectID = "Xl3-g2-sah"; */
+"Xl3-g2-sah.text" = "Log in with";
+
+/* Class = "UILabel"; text = "Register Account"; ObjectID = "Xub-GW-IVK"; */
+"Xub-GW-IVK.text" = "Register Account";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "Xul-lG-qxP"; */
+"Xul-lG-qxP.text" = "Payment";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "Xvz-AW-PH7"; */
+"Xvz-AW-PH7.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Dr. Smith"; ObjectID = "Xx5-zW-Xn8"; */
+"Xx5-zW-Xn8.text" = "Dr. Smith";
+
+/* Class = "UITextField"; placeholder = "Promo Code"; ObjectID = "Y9d-FP-Z7c"; */
+"Y9d-FP-Z7c.placeholder" = "Promo Code";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "YBe-kQ-vgc"; */
+"YBe-kQ-vgc.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "CVC"; ObjectID = "Yfo-Ga-nse"; */
+"Yfo-Ga-nse.placeholder" = "CVC";
+
+/* Class = "UILabel"; text = "0 km"; ObjectID = "Yqp-Nd-Mem"; */
+"Yqp-Nd-Mem.text" = "0 km";
+
+/* Class = "UIButton"; normalTitle = "Book"; ObjectID = "Z2w-wY-Dvl"; */
+"Z2w-wY-Dvl.normalTitle" = "Book";
+
+/* Class = "UILabel"; text = "Negeria"; ObjectID = "Z4r-kr-G7J"; */
+"Z4r-kr-G7J.text" = "Negeria";
+
+/* Class = "UILabel"; text = "AFFILIAITED HOSPITALS"; ObjectID = "ZIu-b3-mlx"; */
+"ZIu-b3-mlx.text" = "AFFILIAITED HOSPITALS";
+
+/* Class = "UILabel"; text = "Dr. Smit"; ObjectID = "ZLG-hF-y9O"; */
+"ZLG-hF-y9O.text" = "Dr. Smit";
+
+/* Class = "UILabel"; text = "3 days ago"; ObjectID = "ZyP-mU-6MT"; */
+"ZyP-mU-6MT.text" = "3 days ago";
+
+/* Class = "UILabel"; text = "Negeria"; ObjectID = "aDa-44-hy5"; */
+"aDa-44-hy5.text" = "Negeria";
+
+/* Class = "UILabel"; text = "Al SAFA CLINIC"; ObjectID = "aW8-te-bCV"; */
+"aW8-te-bCV.text" = "Al SAFA CLINIC";
+
+/* Class = "UILabel"; text = "Doctors"; ObjectID = "adg-6l-RMc"; */
+"adg-6l-RMc.text" = "Doctors";
+
+/* Class = "UILabel"; text = "0.0 km"; ObjectID = "ahT-dV-Wqc"; */
+"ahT-dV-Wqc.text" = "0.0 km";
+
+/* Class = "UIButton"; normalTitle = "Other Patient"; ObjectID = "auy-PD-jb0"; */
+"auy-PD-jb0.normalTitle" = "Other Patient";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "b7g-En-tnU"; */
+"b7g-En-tnU.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "My Address"; ObjectID = "bBP-dL-6WD"; */
+"bBP-dL-6WD.text" = "My Address";
+
+/* Class = "UILabel"; text = "Dr. Smith"; ObjectID = "brS-Nc-P6h"; */
+"brS-Nc-P6h.text" = "Dr. Smith";
+
+/* Class = "UILabel"; text = "  Reason for rescheduling appointment"; ObjectID = "bry-ay-e8X"; */
+"bry-ay-e8X.text" = "  Reason for rescheduling appointment";
+
+/* Class = "UIButton"; normalTitle = "      Share"; ObjectID = "c5k-S4-OEC"; */
+"c5k-S4-OEC.normalTitle" = "      Share";
+
+/* Class = "UIButton"; normalTitle = "Pay for Other"; ObjectID = "cGR-eH-gH7"; */
+"cGR-eH-gH7.normalTitle" = "Pay for Other";
+
+/* Class = "UITextField"; placeholder = "Enter new password"; ObjectID = "cPL-Sz-Uja"; */
+"cPL-Sz-Uja.placeholder" = "Enter new password";
+
+/* Class = "UILabel"; text = "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator. Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator."; ObjectID = "co3-Qb-KuY"; */
+"co3-Qb-KuY.text" = "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator. Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cyQ-wp-CpB"; */
+"cyQ-wp-CpB.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "d5m-c2-3S7"; */
+"d5m-c2-3S7.text" = "Home";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "dCF-Vn-HcP"; */
+"dCF-Vn-HcP.text" = "4.0";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "dE0-Wv-6hF"; */
+"dE0-Wv-6hF.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Type a message here"; ObjectID = "dH1-gM-jJZ"; */
+"dH1-gM-jJZ.placeholder" = "Type a message here";
+
+/* Class = "UIButton"; normalTitle = "Self"; ObjectID = "dHb-5O-ti4"; */
+"dHb-5O-ti4.normalTitle" = "Self";
+
+/* Class = "UILabel"; text = "Discount Amount"; ObjectID = "dc0-nl-4BE"; */
+"dc0-nl-4BE.text" = "Discount Amount";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "e0i-Ii-e2Z"; */
+"e0i-Ii-e2Z.placeholder" = "Card Number";
+
+/* Class = "UITextField"; placeholder = "Search for Doctors"; ObjectID = "e3Z-pi-cRZ"; */
+"e3Z-pi-cRZ.placeholder" = "Search for Doctors";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "e7T-ED-Ze7"; */
+"e7T-ED-Ze7.text" = "Sergery";
+
+/* Class = "UILabel"; text = "DOCTOR PROFILE"; ObjectID = "e7u-hC-CuZ"; */
+"e7u-hC-CuZ.text" = "DOCTOR PROFILE";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "e9e-hm-2ZM"; */
+"e9e-hm-2ZM.normalTitle" = "OK";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "eCe-VO-ijm"; */
+"eCe-VO-ijm.title" = "Favorite";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "exE-PI-MlO"; */
+"exE-PI-MlO.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "10 April 2019"; ObjectID = "f4N-iw-nKU"; */
+"f4N-iw-nKU.text" = "10 April 2019";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "f4W-ms-XHE"; */
+"f4W-ms-XHE.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Jessica Fox"; ObjectID = "f4k-lt-ZuV"; */
+"f4k-lt-ZuV.text" = "Jessica Fox";
+
+/* Class = "UITabBarItem"; title = "Promotion"; ObjectID = "fIP-8B-M4d"; */
+"fIP-8B-M4d.title" = "Promotion";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "fKM-91-R0q"; */
+"fKM-91-R0q.normalTitle" = "Pay";
+
+/* Class = "UITextView"; text = "Description (max 250 words)"; ObjectID = "fvb-o8-xyj"; */
+"fvb-o8-xyj.text" = "Description (max 250 words)";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "g9R-WU-7PQ"; */
+"g9R-WU-7PQ.placeholder" = "Location";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "gBb-1Y-P3o"; */
+"gBb-1Y-P3o.title" = "Home";
+
+/* Class = "UILabel"; text = "SPECIALITIES"; ObjectID = "gIV-CY-ZHd"; */
+"gIV-CY-ZHd.text" = "SPECIALITIES";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "gJy-Rt-e9y"; */
+"gJy-Rt-e9y.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Emergency Appointment"; ObjectID = "gSh-hG-FeS"; */
+"gSh-hG-FeS.normalTitle" = "Emergency Appointment";
+
+/* Class = "UIButton"; normalTitle = "COMMENT"; ObjectID = "hds-7Z-VTZ"; */
+"hds-7Z-VTZ.normalTitle" = "COMMENT";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "i5o-Qh-roC"; */
+"i5o-Qh-roC.placeholder" = "Category";
+
+/* Class = "UITabBarItem"; title = "Appointment"; ObjectID = "iHM-QW-xMq"; */
+"iHM-QW-xMq.title" = "Appointment";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iiU-gK-gGl"; */
+"iiU-gK-gGl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "j4O-45-qe6"; */
+"j4O-45-qe6.placeholder" = "Select Time";
+
+/* Class = "UILabel"; text = "10 April 2019"; ObjectID = "j9A-77-wYn"; */
+"j9A-77-wYn.text" = "10 April 2019";
+
+/* Class = "UILabel"; text = "Sergery"; ObjectID = "kFJ-ZY-XFM"; */
+"kFJ-ZY-XFM.text" = "Sergery";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "kNz-1q-pdg"; */
+"kNz-1q-pdg.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Book Appointment"; ObjectID = "kQ8-CL-cyS"; */
+"kQ8-CL-cyS.text" = "Book Appointment";
+
+/* Class = "UILabel"; text = "Search for Doctor"; ObjectID = "kSb-Ef-4lc"; */
+"kSb-Ef-4lc.text" = "Search for Doctor";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kk4-K4-ayK"; */
+"kk4-K4-ayK.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Chat"; ObjectID = "lYe-U9-j6Y"; */
+"lYe-U9-j6Y.title" = "Chat";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lrW-sE-52j"; */
+"lrW-sE-52j.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Re-Schedule"; ObjectID = "m0K-sa-27Y"; */
+"m0K-sa-27Y.normalTitle" = "Re-Schedule";
+
+/* Class = "UILabel"; text = "SPECIALITIES"; ObjectID = "maD-Z2-0fj"; */
+"maD-Z2-0fj.text" = "SPECIALITIES";
+
+/* Class = "UITextField"; placeholder = "Date of Birth"; ObjectID = "mse-hY-KEH"; */
+"mse-hY-KEH.placeholder" = "Date of Birth";
+
+/* Class = "UIButton"; normalTitle = "Book Appointment"; ObjectID = "nAo-WH-2AW"; */
+"nAo-WH-2AW.normalTitle" = "Book Appointment";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "nai-Nl-v6O"; */
+"nai-Nl-v6O.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "ng7-9N-Rhz"; */
+"ng7-9N-Rhz.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "08:08 PM"; ObjectID = "nyW-4x-eM2"; */
+"nyW-4x-eM2.text" = "08:08 PM";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "o26-wL-qeS"; */
+"o26-wL-qeS.text" = "Chat";
+
+/* Class = "UILabel"; text = "Neurology"; ObjectID = "oec-1K-Jge"; */
+"oec-1K-Jge.text" = "Neurology";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "oen-h6-EwV"; */
+"oen-h6-EwV.text" = "Login";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "p14-0d-JaV"; */
+"p14-0d-JaV.text" = "Payment";
+
+/* Class = "UILabel"; text = "Doctor Available Time"; ObjectID = "pJk-DT-WPP"; */
+"pJk-DT-WPP.text" = "Doctor Available Time";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pVj-t1-tP9"; */
+"pVj-t1-tP9.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "View all comment"; ObjectID = "pin-JL-d1n"; */
+"pin-JL-d1n.normalTitle" = "View all comment";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "poi-Oe-jSI"; */
+"poi-Oe-jSI.placeholder" = "Select Date";
+
+/* Class = "UILabel"; text = "Discount Amount"; ObjectID = "pyy-Ko-FIQ"; */
+"pyy-Ko-FIQ.text" = "Discount Amount";
+
+/* Class = "UITextView"; text = "Write your review"; ObjectID = "qBn-St-J7Q"; */
+"qBn-St-J7Q.text" = "Write your review";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "qSx-NZ-QhS"; */
+"qSx-NZ-QhS.text" = "OR";
+
+/* Class = "UILabel"; text = "75.00"; ObjectID = "qY3-vS-M8w"; */
+"qY3-vS-M8w.text" = "75.00";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "rOt-Kg-57H"; */
+"rOt-Kg-57H.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Al SAFA CLINIC"; ObjectID = "rmV-1I-NRz"; */
+"rmV-1I-NRz.text" = "Al SAFA CLINIC";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "rzX-hT-v2M"; */
+"rzX-hT-v2M.text" = "Setting";
+
+/* Class = "UILabel"; text = "last seen Feb 05 at 4:14 pm"; ObjectID = "sBi-pb-bnc"; */
+"sBi-pb-bnc.text" = "last seen Feb 05 at 4:14 pm";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "sc6-AN-psb"; */
+"sc6-AN-psb.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "Al SAFA CLINIC"; ObjectID = "soO-4q-xVL"; */
+"soO-4q-xVL.text" = "Al SAFA CLINIC";
+
+/* Class = "UILabel"; text = "Favourite List"; ObjectID = "tUy-m0-QzM"; */
+"tUy-m0-QzM.text" = "Favourite List";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "taY-W6-ngH"; */
+"taY-W6-ngH.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tgH-vp-hgT"; */
+"tgH-vp-hgT.text" = "Label";
+
+/* Class = "UILabel"; text = "425.00"; ObjectID = "tqV-cK-4Bz"; */
+"tqV-cK-4Bz.text" = "425.00";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "w3s-EY-AQT"; */
+"w3s-EY-AQT.normalTitle" = "Forgot Password";
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "wHT-m5-BBn"; */
+"wHT-m5-BBn.placeholder" = "Select Time";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wTJ-lh-icM"; */
+"wTJ-lh-icM.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "NGN 100.00"; ObjectID = "wXr-vh-k3M"; */
+"wXr-vh-k3M.text" = "NGN 100.00";
+
+/* Class = "UILabel"; text = "Doctor Available Time"; ObjectID = "wvK-se-GrE"; */
+"wvK-se-GrE.text" = "Doctor Available Time";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "x1P-Lu-mrG"; */
+"x1P-Lu-mrG.text" = "2";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "xbG-ej-r9r"; */
+"xbG-ej-r9r.placeholder" = "MM/YY";
+
+/* Class = "UIButton"; normalTitle = "Upload File"; ObjectID = "xne-BE-zko"; */
+"xne-BE-zko.normalTitle" = "Upload File";
+
+/* Class = "UILabel"; text = "425.00"; ObjectID = "yDv-cn-lbC"; */
+"yDv-cn-lbC.text" = "425.00";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "yq8-1j-FG0"; */
+"yq8-1j-FG0.placeholder" = "Card Number";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "z9D-VZ-IaJ"; */
+"z9D-VZ-IaJ.normalTitle" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Upload File"; ObjectID = "zaP-SD-2as"; */
+"zaP-SD-2as.normalTitle" = "Upload File";
+
+/* Class = "UIButton"; normalTitle = "  Google"; ObjectID = "zoK-pf-MU6"; */
+"zoK-pf-MU6.normalTitle" = "  Google";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "zyY-dt-4ea"; */
+"zyY-dt-4ea.normalTitle" = "Done";
